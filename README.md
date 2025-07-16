@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
 <h3 align="center">Android Developer | Kotlin | Jetpack | Clean Architecture</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Your Cool App or Open Source Project Name]**
+- 🔭 I’m currently working on **[(https://github.com/nazmulcse247/TMDB-Movie-App)]**
 - 🌱 I’m learning **Jetpack Compose | Kotlin Coroutines | MVVM | Clean Architecture**
 - 👯 I’m looking to collaborate on **open source Android projects**
 - 💬 Ask me about **Android, Kotlin, Architecture patterns**
