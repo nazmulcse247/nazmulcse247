@@ -1,39 +1,64 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hoque</h1>
-<h3 align="center">Android Developer | Kotlin | Jetpack | Clean Architecture</h3>
+<h3 align="center">Android Lead Developer | 10+ Years Building Scalable Enterprise Mobile Apps</h3>
+
+Mobile Engineer with **5 years of Android expertise**, currently leading Android engineering strategy for **client-facing ERP applications**.
+
+I build **secure, scalable, high-performance mobile platforms** across ERP, IoT, education,POS and enterprise ecosystems.
+
+Strong focus on:
+- Modern Android architecture, Clean code   
+- Engineering leadership & mentorship  
+- Scalable system design  
+- Production grade delivery  
+
+### 🧠 Tech Stack
+
+**Languages & UI:**  Kotlin • Java • Jetpack Compose • XML  
+**Architecture & Patterns:**  MVVM • MVI • Clean Architecture • Modularization • KMM  
+**Async & Data:**  Coroutines • Flow • LiveData • RxJava  
+**Networking & Storage:**  Retrofit • GraphQL • Room • Firebase Suite  
+**SDKs & Integrations:**  Media3 • ExoPlayer • Google Maps • Fused Location  
+**DevOps & Engineering:**  Dagger Hilt • CI/CD (GitHub Actions, Jenkins, CircleCI)  Agile • JIRA • Code Reviews • System Design  
+**Emerging Tech:**  Agentic AI • MCP • GenAI
+**iOS:** SwiftUI • MVVM • TCA architecture
+
+---
+
+### ✍️ Technical Writing & Community
+- Sharing Android insights through articles appreciated by thousands of developers worldwide.
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pathak-blue?logo=linkedin)](https://linkedin.com/in/nazmul247/)
+[![GitHub](https://img.shields.io/badge/GitHub-myofficework000-black?logo=github)](https://github.com/nazmulcse247)
+
+---
+
+### 📊 stats
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://komarev.com/ghpvc/?username=[YourUsername]&style=flat-square&color=blue" alt="" />
-  </a>
+          <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=myofficework000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180"/><br>
+      </td>
+       <td width="30%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=myofficework000&layout=compact&langs_count=10&theme=algolia" height="180"/>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=myofficework000&theme=react-dark" height="180"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
----
+### 🛠️ Tech Stacks
 
-- 🔭 I’m currently working on **[(https://github.com/nazmulcse247/TMDB-Movie-App)]**
-- 🌱 I’m learning **Jetpack Compose | Kotlin Coroutines | MVVM | Clean Architecture**
-- 👯 I’m looking to collaborate on **open source Android projects**
-- 💬 Ask me about **Android, Kotlin, Architecture patterns**
-- 📫 How to reach me **[Your Email / LinkedIn / Portfolio]**
-- ⚡ Fun fact **I love turning coffee into Android apps!**
-
----
-
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-00796B?style=for-the-badge&logo=room&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&hide=issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[YourUsername]&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,swift,react,git,firebase,graphql,jenkins,github,gradle" />
+</p>
+<p align="center">
+  <b>Android • iOS • Kotlin Multiplatform • Xamarin • Agentic AI • Jetpack Compose • MVVM • Clean Architecture</b>
 </p>
 
----
+### 💡 Engineering Philosophy
+Clean code. Reusable architecture. Secure mobile systems. Continuous learning. Mentoring engineers. Delivering impact at scale.
