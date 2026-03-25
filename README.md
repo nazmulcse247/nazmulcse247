@@ -13,7 +13,7 @@ Strong focus on:
 
 ### 🧠 Tech Stack
 
-**Languages & UI:**  Kotlin • Java • Dart • Jetpack Compose • XML • Flutter
+**Languages & UI:**  Kotlin • Java • Dart • Jetpack Compose • XML • Flutter           
 **Architecture & Patterns:**  MVVM • MVI • Clean Architecture • Modularization • KMM  
 **Async & Data:**  Coroutines • Flow • LiveData • RxJava  
 **State Mannagent:**  Provider • Bloc • Getx
