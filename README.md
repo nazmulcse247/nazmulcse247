@@ -34,7 +34,7 @@ Strong focus on:
 ### 📊 stats
 
 <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=myofficework000&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
+          <img src="https://komarev.com/ghpvc/?username=nazmulcse247&label=Profile%20Views&color=0e75b6&style=flat" height="20"/>
   <table width="100%">
     <tr>
       <td width="40%" align="center">
